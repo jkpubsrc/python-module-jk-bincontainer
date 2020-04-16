@@ -1,0 +1,52 @@
+{
+	"language": "python3",
+	"name": "jk_bincontainer",
+	"version": "0.2020.4.16",
+	"meta": {
+		"description": "This python module implements a container for data blocks.",
+		"keywords": [
+			"binary",
+			"container"
+		],
+		"license": "Apache 2.0",
+		"development_status": "alpha",
+		"authors": [
+			{
+				"name": "Jürgen Knauth",
+				"email": "pubsrc@binary-overflow.de"
+			}
+		],
+		"wiki": {
+			"page": "DevDocs:jk_bincontainer"
+		}
+	},
+	"repositories": [
+		{
+			"type": "github",
+			"user": "jkpubsrc",
+			"project": "python-module-jk-bincontainer",
+			"devon_publish": false
+		},
+		{
+			"type": "pypi",
+			"project": "jk_bincontainer",
+			"devon_publish": false
+		}
+	],
+	"source": {
+		"packages": [
+			"jk_bincontainer"
+		],
+		"extra_data_files": [
+		],
+		"extra_binary_files": [
+		]
+	},
+	"requirements": {
+		"python_packages": [
+		],
+		"python_packages_dev": [
+		]
+	}
+}
+
